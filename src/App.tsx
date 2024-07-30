@@ -4,13 +4,15 @@ import Lesson_18 from "lessons/Lesson_18/Lesson_18"
 
 // Homeworks
 import Homework_16 from "homeworks/Homework_16/Homework_16"
+import Homework_18 from "homeworks/Homework_18/Homework_18"
 
 function App() {
   return (
     <>
       {/* <Homework_16 /> */}
+      <Homework_18 />
       {/* <Lesson_16 /> */}
-      <Lesson_18 />
+      {/* <Lesson_18 /> */}
     </>
   )
 }
